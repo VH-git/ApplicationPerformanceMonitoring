@@ -1,2 +1,2 @@
 # ApplicationPerformanceMonitoring
-Bash script that would monitor 6 applications in the form of pre-compiled C executables. The script would collect process and system level metrics such as CPU utilization, memory utilization, network bandwidth utilization, hard disk writes, and hard disk utilization
+Bash script that would monitor 6 applications in the form of pre-compiled C executables. The script would collect process and system level metrics such as CPU utilization, memory utilization, network bandwidth utilization, hard disk writes, and hard disk utilization. Results are from a CENTOS 8 VM with 1 CPU, 2 GB of ram, and 100 Gigs of storage. The VM was running in NAT mode, connected to an RIT lab computer in order to collect network utilization.
